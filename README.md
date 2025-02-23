@@ -18,7 +18,7 @@ Telegram: [@BlackDev](https://t.me/blackdevWeb3) <br>
 
     ```
     git clone https://github.com/blackdevWeb3/Twittertoken_Sniper_bot.git
-    cd solana-twitter-sniper
+    cd Twittertoken_Sniperbot_Solana
     ```
 2. Install dependencies
 
